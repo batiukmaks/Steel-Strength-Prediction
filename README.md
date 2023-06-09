@@ -52,6 +52,7 @@ The code has been executed with the following results:
 
 ### Learning Curve
 You can uncomment the function call to `plot_losses(losses)` in the code to visualize the learning curve. The learning curve shows the loss function value over iterations.
+![Learning curve](image.png)
 
 ## Contributions 🤝
 
